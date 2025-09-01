@@ -1,6 +1,7 @@
-nombre = "soy PEPE"
+nombre = "Lucasss"
 ape = "Perez"
 saludo = "hola "+nombre+" "+ape+ " bienvenido"
 
 
 print(saludo)
+
