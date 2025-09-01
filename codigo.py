@@ -1,4 +1,4 @@
-nombre = "soy"
+nombre = "soy PEPE"
 ape = "Perez"
 saludo = "hola "+nombre+" "+ape+ " bienvenido"
 
